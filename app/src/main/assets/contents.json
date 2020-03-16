@@ -1,0 +1,50 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "idk",
+      "publisher": "almadih",
+      "tray_image_file": "cat.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "joker.webp"
+        },
+        {
+          "image_file": "tom.webp"
+        },
+        {
+          "image_file": "hey1.webp"
+        },
+        {
+          "image_file": "hey2.webp"
+        },
+        {
+          "image_file": "hey3.webp"
+        },
+        {
+          "image_file": "hey4.webp"
+        },
+        {
+          "image_file": "fkall.webp"
+        },
+        {
+          "image_file": "idk.webp"
+        },
+        {
+          "image_file": "rick.webp"
+        },
+        {
+          "image_file": "kuso.webp"
+        }
+      ]
+    }
+  ]
+}
